@@ -1,3 +1,4 @@
 site_name: IMWG Training Repo
+site_url: https://tech.pmi.or.id
 theme:
   name: material
