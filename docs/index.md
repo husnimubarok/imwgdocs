@@ -1,4 +1,4 @@
-# Selamat datang di Dokumentasi Training IMWG
+# Beranda
 
 Untuk dokumentasi lengkap silahkan kunjungi [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,4 @@ Untuk dokumentasi lengkap silahkan kunjungi [mkdocs.org](https://www.mkdocs.org)
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+

@@ -3,4 +3,15 @@ site_url: https://tech.pmi.or.id
 theme:
   name: material
   features:
-    - navigation.tabsb
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+  palette:
+    primary: grey
+  favicon: images/logo.png
+
+
+nav:
+  - Home: index.md
+  - Kegiatan: kegiatan.md
+  - Materi: materi.md
