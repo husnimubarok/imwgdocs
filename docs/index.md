@@ -1,15 +1,15 @@
 # Selamat datang di Dokumentasi Training IMWG
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Untuk dokumentasi lengkap silahkan kunjungi [mkdocs.org](https://www.mkdocs.org).
 
 ## Perintah
 
-* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs new [dir-name]` - Buat proyek baru.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Layout proyek
 
     mkdocs.yml    # The configuration file.
     docs/
