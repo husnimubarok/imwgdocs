@@ -3,4 +3,4 @@ site_url: https://tech.pmi.or.id
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.tabsb
