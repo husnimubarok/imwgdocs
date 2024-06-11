@@ -1,6 +1,7 @@
 # Beranda
 
 Untuk dokumentasi lengkap silahkan kunjungi [mkdocs.org](https://www.mkdocs.org).
+<iframe title="VAKSINASI PMI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGM4ODQ5YWUtODQzNS00ZmJiLWIzNjUtZjllMDViMTM2OGZmIiwidCI6IjFlNGUwNWViLTA1MDYtNDlmYy1iNjkzLTFhZGYwZTk1ZDE2MiIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Perintah
 

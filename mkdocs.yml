@@ -8,10 +8,12 @@ theme:
     - navigation.expand
   palette:
     primary: grey
-  favicon: images/logo.png
+  favicon: images/favicon.png
+  logo: assets/logo.png
 
 
 nav:
   - Home: index.md
   - Kegiatan: kegiatan.md
   - Materi: materi.md
+  - Dashboard: dashboard.md
