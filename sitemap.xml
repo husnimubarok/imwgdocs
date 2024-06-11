@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tech.pmi.or.id/</loc>
-         <lastmod>2024-06-10</lastmod>
+         <lastmod>2024-06-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tech.pmi.or.id/dashboard/</loc>
+         <lastmod>2024-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tech.pmi.or.id/kegiatan/</loc>
-         <lastmod>2024-06-10</lastmod>
+         <lastmod>2024-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tech.pmi.or.id/materi/</loc>
-         <lastmod>2024-06-10</lastmod>
+         <lastmod>2024-06-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
